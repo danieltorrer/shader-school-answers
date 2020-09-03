@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+workshop.tar.gz
+
+# Mac OS finder metadata files
+.DS_Store
